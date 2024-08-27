@@ -1,1 +1,2 @@
 # Automated-E-mail-System
+This Python program is designed for voice-based email automation. It uses voice recognition to capture the subject and body of an email, and then sendsthe email using SMTP(Simple Mail Transfer Protocol).This script automates sending an email by using voice commands. It listens to the user's voice input for the subject and body of the email, then sends the email using Gmail's SMTP server. The text-to-speech and speech recognition functionalities facilitate interaction with the user.
